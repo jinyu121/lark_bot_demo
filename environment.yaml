@@ -1,0 +1,15 @@
+name: LarkBotDemo
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - pip:
+      - beautifulsoup4
+      - flask
+      - Flask-Threads
+      - gevent
+      - httpx
+      - larksuite-oapi
+      - more_itertools
+      - retry

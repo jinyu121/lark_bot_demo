@@ -1,0 +1,11 @@
+{
+  "LARK": {
+    "app_id": "",
+    "app_secret": "",
+    "verification_token": "",
+    "encrypt_key": ""
+  },
+  "DATABASE": {
+    "host": ""
+  }
+}
